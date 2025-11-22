@@ -1,6 +1,6 @@
 # API Testing Automation with Pytest & Requests
 
-## 🎯 Project Overview
+##  Project Overview
 
 This repository demonstrates **professional automated API testing** using **Pytest** and **Requests**. It tests a public REST API (JSONPlaceholder) and showcases industry-standard practices including **environment configuration**, **positive and negative tests**, **data-driven testing**, and **comprehensive API test planning**.
 
@@ -14,7 +14,7 @@ This repository demonstrates **professional automated API testing** using **Pyte
 
 ---
 
-## 📋 API Test Plan
+##  API Test Plan
 
 ### Scope
 This test suite covers the JSONPlaceholder API endpoints:
@@ -47,7 +47,7 @@ This test suite covers the JSONPlaceholder API endpoints:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Version | Purpose |
 | :--- | :--- | :--- |
@@ -59,7 +59,7 @@ This test suite covers the JSONPlaceholder API endpoints:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 api-testing-automation/
@@ -95,7 +95,7 @@ api-testing-automation/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -128,7 +128,7 @@ api-testing-automation/
 
 ---
 
-## ▶️ Running Tests
+##  Running Tests
 
 ### Run all tests
 ```bash
@@ -162,7 +162,7 @@ pytest tests/test_data_driven.py -v
 
 ---
 
-## 🔧 Configuration Management
+##  Configuration Management
 
 ### Environment Variables
 
@@ -190,7 +190,7 @@ pytest tests/ --env=prod
 
 ---
 
-## 📝 API Client Classes
+##  API Client Classes
 
 The project uses API client classes to abstract HTTP operations and improve maintainability.
 
@@ -233,7 +233,7 @@ def test_get_user(user_api):
 
 ---
 
-## 🧪 Test Examples
+##  Test Examples
 
 ### Positive Test Example
 
@@ -276,7 +276,7 @@ def test_get_user_data_driven(user_api, user_id, expected_status):
 
 ---
 
-## 📊 Test Reporting
+##  Test Reporting
 
 Tests generate HTML reports for easy review:
 
@@ -292,7 +292,7 @@ The report includes:
 
 ---
 
-## 🎓 Key Learnings
+##  Key Learnings
 
 This project demonstrates:
 1. **API Client Abstraction:** Creating reusable API client classes
@@ -303,7 +303,7 @@ This project demonstrates:
 
 ---
 
-## 🔗 Related Repositories
+##  Related Repositories
 
 - [qa-portfolio-overview](https://github.com/Ayoub-DataScientist/qa-portfolio-overview) - Portfolio map and overview
 - [web-ui-testing-playwright](https://github.com/Ayoub-DataScientist/web-ui-testing-playwright) - UI testing examples
@@ -311,6 +311,6 @@ This project demonstrates:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
