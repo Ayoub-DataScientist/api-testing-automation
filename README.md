@@ -307,7 +307,7 @@ This project demonstrates:
 
 - [qa-portfolio-overview](https://github.com/Ayoub-DataScientist/qa-portfolio-overview) - Portfolio map and overview
 - [web-ui-testing-playwright](https://github.com/Ayoub-DataScientist/web-ui-testing-playwright) - UI testing examples
-- [test-automation-framework-from-scratch](https://github.com/Ayoub-DataScientist/test-automation-framework-from-scratch) - Advanced framework
+- [test-automation-framework](https://github.com/Ayoub-DataScientist/test-automation-framework) - Advanced framework
 
 ---
 
